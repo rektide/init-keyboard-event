@@ -1,0 +1,11 @@
+{
+	"name": "init-keyboard-event",
+	"version": "1.0.0",
+	"description": "Convert positional arguments of initKeyEvent into a new KeyboardEvent.",
+	"main": "init-keyboard-event.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "rektide de la faye",
+	"license": "X11"
+}
