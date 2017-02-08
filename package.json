@@ -1,6 +1,6 @@
 {
 	"name": "init-keyboard-event",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Convert positional arguments of initKeyEvent into a new KeyboardEvent.",
 	"main": "init-keyboard-event.js",
 	"scripts": {
