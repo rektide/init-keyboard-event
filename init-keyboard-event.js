@@ -6,7 +6,7 @@ function initKeyboardEvent( type, bubbles, cancelable, view, ctrlKey, altKey, sh
 		altKey: altKey,
 		shiftKey: shiftKey,
 		metaKey: metaKey,
-		key: keyCode
+		key: keyCode,
 		code: charCode})
 }
 if( typeof(module)!== "undefined"&& !!module.exports){
